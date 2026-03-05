@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "青い春のエチュード feat. 長屋晴子 (緑黄色社会)",
+  "base_artist": "東京スカパラダイスオーケストラ",
+  "createdAt": "2026-03-05T02:06:06.045789Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "青い春のエチュード feat. 長屋晴子",
+      "artist": "東京スカパラダイスオーケストラ",
+      "has_synced": false,
+      "path": "select/pl_01_青い春のエチュード_feat._長屋晴子_東京スカパラダイスオーケストラ.txt"
+    }
+  ]
+}
